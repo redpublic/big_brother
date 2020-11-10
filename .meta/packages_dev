@@ -1,0 +1,4 @@
+-r packages_base
+
+pytest
+pytest-asyncio

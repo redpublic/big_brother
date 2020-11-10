@@ -1,0 +1,4 @@
+1. Make it possible to run multiple producers
+2. Database could require partitioning
+3. Add type hinting
+4. Substitute real http calls in tests with mock calls
